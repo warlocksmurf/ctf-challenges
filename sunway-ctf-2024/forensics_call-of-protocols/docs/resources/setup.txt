@@ -1,0 +1,9 @@
+1. Get key.pem and cert.pem and run https.py in Kali for HTTPS hosting
+
+openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout key.pem -out cert.pem
+
+2. Log sslkeyfile in Win10
+
+https://my.f5.com/manage/s/article/K50557518#OnWindows
+
+3. Capture traffic in Win10 when browsing the HTTPS website
