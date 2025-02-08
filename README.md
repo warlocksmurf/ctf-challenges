@@ -1,11 +1,14 @@
 # CTF challenges
+A collection of CTF challenges I've created for local events including forensics, OSINT, reverse engineering, cryptography, misc and blockchain 🚩
+
+*The difficulty of a challenge is inherently subjective, as it depends on individual skill levels, experience, and personal preferences. What may seem easy to one participant could be incredibly challenging for another. In a competition setting, the difficulty is calibrated to suit the target audience, ensuring an engaging and competitive experience for each participant.*
+
 ## Table of Contents
 - [SunCTF 2024](#sunctf-2024)
 - [GCTF 2024](#gctf-2024)
 - [EQCTF 2025](#eqctf-2025)
 
 ## SunCTF 2024 
-
 |Name|Category|Difficulty|Attachment|
 |---|---|---|---|
 |Baby Shark|Forensics|Easy|[Files + Solution](sunway-ctf-2024/forensics_babyshark/)|
@@ -25,7 +28,6 @@
 |Packman|Rev|Hard|[Files + Solution](sunway-ctf-2024/rev_packman/)|
 
 ## GCTF 2024
-
 |Name|Category|Difficulty|Attachment|
 |---|---|---|---|
 |QnA|Forensics|Easy|[Files + Solution](girls-in-ctf-2024/forensics_qna/)|
@@ -34,7 +36,6 @@
 |Allowance|Blockchain|Easy|[Files + Solution](girls-in-ctf-2024/blockchain_allowance/)|
 
 ## EQCTF 2025
-
 |Name|Category|Difficulty|Attachment|
 |---|---|---|---|
 |VeLoCiraptor|Forensics|Easy|[Files](equilibrium-ctf-2025/forensics_velociraptor/)|
