@@ -6,7 +6,9 @@ A collection of CTF challenges I've created for local events including forensics
 ## Table of Contents
 - [SunCTF 2024](#sunctf-2024)
 - [GCTF 2024](#gctf-2024)
-- [EQCTF 2025](#eqctf-2025)
+- [EQCTF Online MiniCTF 2025](#eqctf-2025)
+- [L3akCTF 2025](#l3akctf-2025)
+- [SunCTF 2025](#sunctf-2025)
 
 ## SunCTF 2024 
 |Name|Category|Difficulty|Attachment|
@@ -35,7 +37,7 @@ A collection of CTF challenges I've created for local events including forensics
 |Fox Secrets|Forensics|Hard|[Files + Solution](girls-in-ctf-2024/forensics_fox-secrets/)|
 |Allowance|Blockchain|Easy|[Files + Solution](girls-in-ctf-2024/blockchain_allowance/)|
 
-## EQCTF 2025
+## EQCTF Online MiniCTF 2025
 |Name|Category|Difficulty|Attachment|
 |---|---|---|---|
 |VeLoCiraptor|Forensics|Easy|[Files](equilibrium-ctf-2025/forensics_velociraptor/)|
@@ -49,3 +51,20 @@ A collection of CTF challenges I've created for local events including forensics
 |Garry: Beyond Music's End 4|OSINT|Easy|[Files](equilibrium-ctf-2025/osint_garry4/)|
 |Stream Sniper|OSINT|Medium|[Files](equilibrium-ctf-2025/osint_stream-sniper/)|
 |Sanity Check|Brainfuck|Easy|[Files](equilibrium-ctf-2025/brainfuck_sanity-check/)|
+
+## L3akCTF 2025
+|Name|Category|Difficulty|Attachment|
+|---|---|---|---|
+|BOMbardino crocodile|Forensics|Easy|[Files + Solution](l3ak-ctf-2025/forensics_BOMbardino-crocodile)|
+
+## SunCTF 2024 
+|Name|Category|Difficulty|Attachment|
+|---|---|---|---|
+|SOC Shift|Forensics|Easy|[Files + Solution](sunway-ctf-2025/forensics_soc-shift/)|
+|Get Clawed|Forensics|Medium|[Files + Solution](sunway-ctf-2025/forensics_get-clawed/)|
+|Sustainable Development Goals|Forensics|Medium|[Files + Solution](sunway-ctf-2025/forensics_sustainable-development-goals/)|
+|Stop Fixing My Clicks|Forensics|Hard|[Files + Solution](sunway-ctf-2025/forensics_stop-fixing-my-clicks/)|
+|babyOSINT|OSINT|Easy|[Files + Solution](sunway-ctf-2025/osint_babyosint/)|
+|Who's Alpha|OSINT|Hard|[Files + Solution](sunway-ctf-2025/osint_whos-alpha/)|
+|Who's Alpha 2|OSINT|Medium|[Files + Solution](sunway-ctf-2025/osint_whos-alpha2/)|
+|Resemblance|Crypto|Medium|[Files + Solution](sunway-ctf-2025/crypto_resemblance/)|
