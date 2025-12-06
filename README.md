@@ -1,7 +1,9 @@
 # CTF challenges
-A collection of CTF challenges I've created for local events including forensics, OSINT, reverse engineering, cryptography, misc and blockchain 🚩
+A collection of unique challenges I've created for CTF competitions 🚩
 
 *The difficulty of a challenge is inherently subjective, as it depends on individual skill levels, experience, and personal preferences. What may seem easy to one participant could be incredibly challenging for another. In a competition setting, the difficulty is calibrated to suit the target audience, ensuring an engaging and competitive experience for each participant.*
+
+![lobstergrimoire](lobstergrimoire.png)
 
 ## Table of Contents
 - [SunCTF 2024](#sunctf-2024)
