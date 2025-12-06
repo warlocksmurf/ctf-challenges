@@ -59,7 +59,7 @@ A collection of unique challenges I've created for CTF competitions 🚩
 |---|---|---|---|
 |BOMbardino crocodile|Forensics|Easy|[Files + Solution](l3ak-ctf-2025/forensics_BOMbardino-crocodile)|
 
-## SunCTF 2024 
+## SunCTF 2025
 |Name|Category|Difficulty|Attachment|
 |---|---|---|---|
 |SOC Shift|Forensics|Easy|[Files + Solution](sunway-ctf-2025/forensics_soc-shift/)|
